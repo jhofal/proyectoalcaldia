@@ -1,0 +1,173 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+main{
+	background: #ef42d5;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+/*HEADER*/
+
+.caja-header{
+	background: #e027c4;
+	display: flex;
+	width: 95%;
+	height: 80px;
+	padding: 5px;
+	margin: auto;
+	justify-content: center;
+	align-items: center;
+}
+
+/*Navegacion*/
+
+.menu-nav{
+	background: ;
+	display: flex;
+	width: 100%;
+	height: 100%;
+	padding: 2px;
+	justify-content: space-around;
+	align-items: center;
+	border-radius: 5px;
+}
+
+.menu-nav a{
+	background: purple;
+	color: white;
+	text-decoration: none;
+	letter-spacing: 1.5px;
+	text-decoration: none;
+	color: white;
+	font-family: sans-serif;
+	font-size: 18px;
+	font-weight: 800;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+.menu-nav a:hover{
+	color: lime;
+	font-size: 20px;
+}
+
+/*FIN MENU*/
+
+h1{
+	background: ;
+	text-align: center;
+	font-family: sans-serif;
+	color: white;
+}
+
+
+
+/*SECCION*/
+
+h3{
+	background: ;
+	text-align: center;
+	font-family: sans-serif;
+	margin-top: 20px;
+}
+
+p{
+	font-size: 18px;
+}
+
+.caja-seccion{
+	background: #e027c4;
+	width: 60%;
+	margin-left: 2px;
+	padding: 5px;
+	margin-top: 15px;
+}
+
+.articulo-historia{
+	background: ;
+	padding: 2px;
+}
+
+.caja-plaza{
+	background: ;
+	display: flex;
+	width: 350px;
+	padding: 5px;
+	margin: auto;
+	border-radius: 10px;
+}
+
+.caja-plaza img{
+	border-radius: 5px;
+}
+
+
+.articulo-playa{
+	background: ;
+	padding: 2px;
+	margin-top: 5px;
+}
+
+.caja-playa{
+	background: ;
+	display: flex;
+	width: 350px;
+	padding: 5px;
+	margin: auto;
+	border-radius: 10px;
+}
+
+.articulo-tributos{
+	background: ;
+	padding: 2px;
+	margin-top: 5px;
+}
+
+/*FIN SECCION*/
+
+
+/*ASIDE*/
+
+.caja-aside{
+	background: #e027c4;
+	display: flex;
+	width: 36%;
+	padding: 0px;
+	margin-left: 620px;
+	margin-top: -1362px;
+	justify-content: center;
+}
+
+.caja-aside h3{
+	color: white;
+}
+
+.caja-noticias{
+	background: ;
+	padding: 2px;
+
+}
+
+
+/*FIN ASIDE*/
+
+
+/*FOOTER*/
+
+.caja-footer{
+	background: #e027c4;
+	width: 100%;
+	height: 35px;
+	text-align: center;
+	align-content: center;
+	margin-top: 200px;
+}
+
+.parrafo-footer{
+	font-size: 18px;
+}
+
